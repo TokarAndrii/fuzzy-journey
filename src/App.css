@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  color: rgb(145, 30, 180)
+}
+.App {
+  margin-left: 50px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 95%;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.left {
+  width: 95%;
+}
+
+.imgresult{
+  width: 400px;
+  height: 400px;
+}
